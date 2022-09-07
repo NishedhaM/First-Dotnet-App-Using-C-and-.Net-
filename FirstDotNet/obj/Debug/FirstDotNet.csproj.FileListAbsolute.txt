@@ -1,0 +1,8 @@
+E:\SpringBootProject1\Dotnet Proj\FirstDotNet\FirstDotNet\bin\Debug\FirstDotNet.exe.config
+E:\SpringBootProject1\Dotnet Proj\FirstDotNet\FirstDotNet\bin\Debug\FirstDotNet.exe
+E:\SpringBootProject1\Dotnet Proj\FirstDotNet\FirstDotNet\bin\Debug\FirstDotNet.pdb
+E:\SpringBootProject1\Dotnet Proj\FirstDotNet\FirstDotNet\obj\Debug\FirstDotNet.csproj.AssemblyReference.cache
+E:\SpringBootProject1\Dotnet Proj\FirstDotNet\FirstDotNet\obj\Debug\FirstDotNet.csproj.SuggestedBindingRedirects.cache
+E:\SpringBootProject1\Dotnet Proj\FirstDotNet\FirstDotNet\obj\Debug\FirstDotNet.csproj.CoreCompileInputs.cache
+E:\SpringBootProject1\Dotnet Proj\FirstDotNet\FirstDotNet\obj\Debug\FirstDotNet.exe
+E:\SpringBootProject1\Dotnet Proj\FirstDotNet\FirstDotNet\obj\Debug\FirstDotNet.pdb
